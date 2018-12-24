@@ -1,9 +1,13 @@
 This is my first GIT File.
 <html>
 <head>hello git demo
-<h1> ********* Hello Tushar</h1>
+<h1> ********* Hello Tushar ------------</h1>
 </head>
 <body>
 Welcome Tushar Padole
 </body>
-</html>gknnbnsbsbbgbshb
+
+</html>
+</html>gjkg\
+ggg
+>>>>>>> bug123
